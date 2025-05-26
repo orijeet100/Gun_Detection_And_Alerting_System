@@ -1,0 +1,15 @@
+
+path: data/images  # dataset root dir
+
+train: train
+val: test
+
+nc: 1
+names: ['gun']
+
+roboflow:
+  workspace: joseph-nelson
+  project: pistols
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/joseph-nelson/pistols/dataset/1
