@@ -7,10 +7,10 @@ from twilio.rest import Client
 
 # Twilio credentials
 # Twilio credentials
-TWILIO_ACCOUNT_SID = 'AC758b0acfd73c70151db674f59af10e80'
-TWILIO_AUTH_TOKEN = '6656b5a90ba67f98032a8961b6c2e68f'
-TWILIO_FROM_NUMBER = '+18443354341'  # your Twilio number
-TO_PHONE_NUMBER = '+16173316848'     # your phone number (verified)
+TWILIO_ACCOUNT_SID = 'TWILIO_ACCOUNT_SID'
+TWILIO_AUTH_TOKEN = 'TWILIO_AUTH_TOKEN'
+TWILIO_FROM_NUMBER = '+TWILIO_FROM_NUMBER'  # your Twilio number
+TO_PHONE_NUMBER = '+TO_PHONE_NUMBER'     # your phone number (verified)
 
 def trigger_twilio_call():
     try:
