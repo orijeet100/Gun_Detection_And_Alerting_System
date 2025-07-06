@@ -5,7 +5,7 @@
 
 [View this video post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)
 
-# 🚨 Gun Detection with YOLOv8
+# 🚨 Gun Detection and Alerting with YOLOv8 and Twilio
 
 A real-time gun detection system using a YOLOv8 model fine-tuned on the Armas dataset. This project provides tools for detecting firearms in images, videos, and live webcam feeds, with optional real-time alerts via Twilio (call/SMS).
 
