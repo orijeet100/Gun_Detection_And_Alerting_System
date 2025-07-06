@@ -1,4 +1,7 @@
-[![Thumbnail](thumbnail)]([https://your-destination-link.com](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096))
+
+<a href="[https://your-destination-link.com](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)">
+  <img src="thumbnail" alt="Thumbnail" width="80%">
+</a>
 
 [View this video post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)
 
