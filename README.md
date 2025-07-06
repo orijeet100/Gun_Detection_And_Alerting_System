@@ -1,5 +1,4 @@
-<!-- Embedded LinkedIn Video Post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7345461036101124096?collapsed=1" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Thumbnail](./thumbnail.jpg)]([https://your-destination-link.com](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096))
 
 [View this video post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)
 
