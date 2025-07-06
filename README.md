@@ -1,5 +1,5 @@
 <!-- Embedded LinkedIn Video Post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7345461036101124096" height="1026" width="504" frameborder="0" allowfullscreen title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7345461036101124096?collapsed=1" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 [View this video post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)
 
