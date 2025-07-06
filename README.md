@@ -1,4 +1,4 @@
-[![Thumbnail](./thumbnail.jpg)]([https://your-destination-link.com](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096))
+[![Thumbnail](thumbnail)]([https://your-destination-link.com](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096))
 
 [View this video post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7345461036101124096)
 
